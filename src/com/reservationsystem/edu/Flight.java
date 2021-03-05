@@ -17,6 +17,6 @@ public class Flight {
 	private boolean isFlightFull;
 	
 	public Set<Seat> seats;
-	public Set<Passanger> passangers;
+	public Set<Passenger> passengers;
 }
  
